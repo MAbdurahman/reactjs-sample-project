@@ -151,6 +151,7 @@ h5 {
 ============================================= */
 .button {
   padding: 16px 32px;
+  margin-bottom: 1em;
   border: 3px solid #404040;
   border-radius: 5px;
   color: #262626;
